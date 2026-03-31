@@ -1,2 +1,2 @@
-# java-learning
-My java practice and DSA  journey
+learning computer
+My  practice and DSA  journey for MIT USA.
