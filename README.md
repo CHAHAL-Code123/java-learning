@@ -12,6 +12,9 @@ Currently I am on step 1:  Creating initial population.
 I had finally completed my whole program in case in future there will be an I would try my best to resolve it.
 In this program I had included logic of combination i.e Maths for Crossing over of chromosome or string.I had also added Mutation for making  the program more same as in real world.The program generates all possible generation needed to form  particular chromosome or string entered
 by the user.
+
+
+Final program:
 [GeneticAlgorithm.java](https://github.com/user-attachments/files/26569554/GeneticAlgorithm.java)
 
 
